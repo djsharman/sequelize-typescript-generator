@@ -5,7 +5,7 @@
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "bin": {
-    "stg": "./bin/cli.js"
+    "stg": "./build/bin/cli.js"
   },
   "scripts": {
     "clean": "rm -fr build",
